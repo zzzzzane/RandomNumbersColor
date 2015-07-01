@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Zzzzzane",
+    "longName": "RandomNumbers",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Random#",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "0621d2a7-ad3f-4c71-bbe4-a29c5d12c6d5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
